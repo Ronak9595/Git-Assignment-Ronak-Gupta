@@ -1,5 +1,5 @@
 1. What is Git?
-=> Git is a distributed version control system where we create the project or do the code and              commit on the local repository which help us to store and access anytime the code       if anyhow we lost our code in our hard disk or SSD. We can share our code to the main repository or remote repisotory where other develpers can work collaborately.
+=> Git is a distributed version control system where we create the project or do the code and commit on the local repository which help us to store and access anytime the code       if anyhow we lost our code in our hard disk or SSD. We can share our code to the main repository or remote repisotory where other develpers can work collaborately.
 
 2. What you understand by 'Version Control System'?
 => Version control System refers to code tracking, code sharing and integrating the code for the project working collaborately with many developers and every developeres create many version of files so that they can easily add, remove or update the code.
