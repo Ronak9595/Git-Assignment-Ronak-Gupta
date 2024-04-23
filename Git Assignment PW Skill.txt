@@ -1,0 +1,26 @@
+1. What is Git?
+=> Git is a distributed version control system where we create the project or do the code and              commit on the local repository which help us to store and access anytime the code       if anyhow we lost our code in our hard disk or SSD. We can share our code to the main repository or remote repisotory where other develpers can work collaborately.
+
+2. What you understand by 'Version Control System'?
+=> Version control System refers to code tracking, code sharing and integrating the code for the project working collaborately with many developers and every developeres create many version of files so that they can easily add, remove or update the code.
+
+3. What is GitHub?
+=> Github is a Git Server which is the main repository or remote repository where we pull the codes from local repository comiited by the developer from the local system where all developers can easilly acess the main repository or remote repository and pull their code from main repository or remote repository to their local repository.
+
+4. Mention some Git hosting services?
+=> Some Git hosting services are Git Hub, Gitlab, BitBucket, GitBlit etc.
+
+5. Different types of version control  systems.
+=> The different types of version control system are centralized version control system(CVCS) and distributed version control system(DVCS).
+
+6. What benefits come with using GIT?
+=> The benefits come using GIT are code tracking, code sharing and code integrating distributley.
+
+7. What is a Git repository?
+=> Git repository is a storage area area where we commit our code from our local sytem and not worrying of losing the code hence we can update our code again in our local system.
+
+8.How can you intitialize a repository in Git?
+=> We can intitialize a repository in Git by using command git init.
+
+
+
